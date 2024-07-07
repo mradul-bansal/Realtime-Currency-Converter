@@ -3,6 +3,8 @@
 ## Overview
 This is a simple currency converter web application built using HTML, CSS, and JavaScript. It allows users to select a from and to currency, enter an amount, and convert the amount from one currency to another.
 
+**Direct link**: https://bit.ly/Currency--Converter
+
 ## Features
 - Select from a list of over 150 currencies
 - Convert an amount from one currency to another
