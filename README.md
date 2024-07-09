@@ -39,7 +39,7 @@ Fetches the latest exchange rate from the API and updates the UI with the conver
 
 ## Setup
 To set up this project, follow these steps:
-1. Clone the repository using `git clone <repository-url>`
+1. Clone the repository using `git clone <https://github.com/mradul-bansal/Realtime-Currency-Converter>`
 2. Open the `index.html` file in a web browser
 3. Select a from and to currency, enter an amount, and click the "Convert" button
 
